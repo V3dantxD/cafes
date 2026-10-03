@@ -5,7 +5,7 @@ import { MapPin, Clock, Phone, Navigation, Copy, Check, Wifi, Car, Dog, Accessib
 
 export default function LocationSection() {
   const [copied, setCopied] = useState(false);
-  const addressText = "Anaar Coffee House, Ground Floor, Opus One, Sindhu Bhavan Road, Bodakdev, Ahmedabad, Gujarat 380054";
+  const addressText = "Metvanta Coffee House, Ground Floor, Opus One, Sindhu Bhavan Road, Bodakdev, Ahmedabad, Gujarat 380054";
 
   const handleCopy = () => {
     navigator.clipboard.writeText(addressText);
@@ -86,8 +86,8 @@ export default function LocationSection() {
                   <span>Direct Inquiries</span>
                 </span>
                 <p>
-                  +91 79 4892 4200 · concierge@anaar.cafe<br />
-                  Instagram: @anaar.cafe
+                  +91 79 4892 4200 · concierge@metvanta.cafe<br />
+                  Instagram: @metvanta.cafe
                 </p>
               </div>
 
@@ -120,7 +120,7 @@ export default function LocationSection() {
           {/* Right Map Pane with Interactive Styled Embed */}
           <div className="loc-map-pane">
             <iframe
-              title="Anaar Specialty Coffee Location Map"
+              title="Metvanta Specialty Coffee Location Map"
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.6979262947844!2d72.5029!3d23.0354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e848aba5bd449%3A0x4fcedd11614f6516!2sSindhu%20Bhavan%20Marg%2C%20Bodakdev%2C%20Ahmedabad%2C%20Gujarat!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"

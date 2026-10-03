@@ -129,7 +129,7 @@ export default function BrewBarMasterclass() {
         {/* 5-Step Craft Journey */}
         <div style={{ marginTop: "70px", paddingTop: "50px", borderTop: "1px solid rgba(255,255,255,0.1)" }}>
           <div style={{ fontSize: "12px", textTransform: "uppercase", letterSpacing: "0.12em", color: "var(--brass-light)", marginBottom: "24px" }}>
-            The Anaar Journey: Estate to Ceramic Cup
+            The Metvanta Journey: Estate to Ceramic Cup
           </div>
 
           <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(200px, 1fr))", gap: "24px" }}>

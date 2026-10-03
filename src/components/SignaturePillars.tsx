@@ -43,7 +43,7 @@ export default function SignaturePillars() {
               <span className="eyebrow-dot" />
               <span>The Foundations</span>
             </div>
-            <h2 className="section-title">What Anaar is built on.</h2>
+            <h2 className="section-title">What Metvanta is built on.</h2>
           </div>
           <p className="section-desc">
             We asked ourselves what an Indian café could be if it respected regional agriculture,

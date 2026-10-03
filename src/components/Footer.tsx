@@ -40,7 +40,7 @@ export default function Footer() {
           {/* Col 1: Brand & Philosophy */}
           <div>
             <div style={{ fontFamily: "'Fraunces', serif", fontSize: "28px", color: "#fff", marginBottom: "14px" }}>
-              an<span style={{ color: "var(--pomegranate-glow)", fontStyle: "italic" }}>a</span>ar
+              Met<span style={{ color: "var(--pomegranate-glow)", fontStyle: "italic" }}>v</span>anta
             </div>
             <p style={{ fontSize: "14px", color: "rgba(250, 247, 242, 0.7)", lineHeight: "1.65", maxWidth: "340px", marginBottom: "24px" }}>
               A specialty coffee roastery and modern Indian café in Ahmedabad. Small-batch lots,
@@ -82,7 +82,7 @@ export default function Footer() {
                 <Phone size={17} />
               </a>
               <a
-                href="mailto:hello@anaar.cafe"
+                href="mailto:hello@metvanta.cafe"
                 style={{
                   width: "36px",
                   height: "36px",
@@ -156,7 +156,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="footer-bottom-bar">
           <div>
-            © 2026 Anaar Specialty Coffee House. All rights reserved. Bodakdev, Ahmedabad.
+            © 2026 Metvanta Specialty Coffee House. All rights reserved. Bodakdev, Ahmedabad.
           </div>
           <div style={{ display: "flex", gap: "20px" }}>
             <a href="#">Privacy Policy</a>

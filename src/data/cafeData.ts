@@ -4,7 +4,7 @@ export const menuItems: MenuItem[] = [
   // BREWS & POUR-OVERS
   {
     id: "pourover-attikan",
-    name: "Anaar Signature Pour-Over",
+    name: "Metvanta Signature Pour-Over",
     subname: "Attikan Estate Micro-Lot #24",
     desc: "Single-origin washed Arabica from Biligirirangana Hills. Hand-poured on Hario V60 with deliberate precision.",
     price: 340,
@@ -66,7 +66,7 @@ export const menuItems: MenuItem[] = [
     image: "https://images.unsplash.com/photo-1534778101976-62847782c213?q=80&w=900&auto=format&fit=crop",
   },
   {
-    id: "anaar-tonic",
+    id: "pomegranate-tonic",
     name: "Pomegranate Cold Brew Tonic",
     subname: "Botanical Refresher",
     desc: "Cold brew layered over artisanal elderflower tonic, freshly extracted pomegranate reduction, and fresh rosemary sprig.",
@@ -127,7 +127,7 @@ export const menuItems: MenuItem[] = [
   },
   {
     id: "granola-curd-bowl",
-    name: "Anaar Botanical Fruit & Curd Bowl",
+    name: "Metvanta Botanical Fruit & Curd Bowl",
     subname: "Cultured Buffalo Curd",
     desc: "Set buffalo curd infused with wild blossom honey, house-roasted pistachio granola, fresh figs, berries, and mint.",
     price: 320,
@@ -322,7 +322,7 @@ export const guestReviews: Review[] = [
     role: "Architect & Urban Designer",
     rating: 5,
     date: "3 days ago",
-    quote: "Anaar feels like an oasis in Ahmedabad. The architectural sensibility—raw lime plaster, warm teak wood, and natural light—matches the sublime precision of their Attikan pour-over.",
+    quote: "Metvanta feels like an oasis in Ahmedabad. The architectural sensibility—raw lime plaster, warm teak wood, and natural light—matches the sublime precision of their Attikan pour-over.",
     drinkOrdered: "Hario V60 Pour-Over + Avocado Haas Toast",
     avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=200&auto=format&fit=crop",
     tag: "Ambiance",

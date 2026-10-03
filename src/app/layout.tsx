@@ -7,11 +7,11 @@ import "./globals.css";
 // (or self-host the font files under /public/fonts).
 
 export const metadata: Metadata = {
-  title: "Anaar | Specialty Coffee & Modern Indian Café in Ahmedabad",
+  title: "Metvanta | Specialty Coffee & Modern Indian Café in Ahmedabad",
   description:
-    "Anaar is a specialty coffee house and modern Indian café in Ahmedabad — thoughtfully sourced coffee, seasonal plates and a room designed for staying a while.",
+    "Metvanta is a specialty coffee house and modern Indian café in Ahmedabad — thoughtfully sourced coffee, seasonal plates and a room designed for staying a while.",
   openGraph: {
-    title: "Anaar | Specialty Coffee & Modern Indian Café",
+    title: "Metvanta | Specialty Coffee & Modern Indian Café",
     description: "Coffee, food and a room designed for staying a while. Ahmedabad.",
     type: "website",
   },

@@ -28,7 +28,7 @@ export default function Header({ onOpenReservation, onOpenTray, trayCount }: Hea
           {/* Brand Logo */}
           <a href="#" className="brand-link">
             <span className="brand-logo">
-              an<span className="accent-letter">a</span>ar
+              Met<span className="accent-letter">v</span>anta
             </span>
             <span className="brand-badge">Ahmedabad</span>
           </a>

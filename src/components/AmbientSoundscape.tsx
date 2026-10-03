@@ -86,7 +86,7 @@ export default function AmbientSoundscape() {
     <div
       className={`ambient-player ${isPlaying ? "ambient-playing" : ""}`}
       onClick={toggleSound}
-      title={isPlaying ? "Mute Café Soundscape" : "Listen to Anaar Ambient Soundscape"}
+      title={isPlaying ? "Mute Café Soundscape" : "Listen to Metvanta Ambient Soundscape"}
     >
       <div className="soundwave-bars">
         <span className="wave-bar" />
@@ -97,7 +97,7 @@ export default function AmbientSoundscape() {
 
       <div style={{ display: "flex", flexDirection: "column" }}>
         <span style={{ fontSize: "11px", fontWeight: 600, letterSpacing: "0.06em", color: "var(--brass-light)", textTransform: "uppercase" }}>
-          {isPlaying ? "Anaar Soundscape Active" : "Café Ambience"}
+          {isPlaying ? "Metvanta Soundscape Active" : "Café Ambience"}
         </span>
         <span style={{ fontSize: "12px", color: "rgba(250, 247, 242, 0.7)" }}>
           {isPlaying ? "Ahmedabad Rain & Lo-Fi" : "Click to Listen"}

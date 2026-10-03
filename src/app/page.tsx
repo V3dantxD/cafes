@@ -77,7 +77,7 @@ export default function Home() {
       {/* Infinite Micro-Lot Marquee Ticker */}
       <MarqueeTicker />
 
-      {/* Three Pillars of Anaar */}
+      {/* Three Pillars of Metvanta */}
       <SignaturePillars />
 
       {/* Interactive Brew Bar & Pour-Over Masterclass */}

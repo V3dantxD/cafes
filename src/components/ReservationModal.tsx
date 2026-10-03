@@ -25,7 +25,7 @@ export default function ReservationModal({ isOpen, onClose }: ReservationModalPr
     setSubmitted(true);
 
     // Build pre-filled WhatsApp message
-    const message = `*Table Reservation Request at Anaar Café*%0A` +
+    const message = `*Table Reservation Request at Metvanta Café*%0A` +
       `--------------------------------%0A` +
       `*Name:* ${name || "Guest"}%0A` +
       `*Date:* ${date}%0A` +
@@ -35,7 +35,7 @@ export default function ReservationModal({ isOpen, onClose }: ReservationModalPr
       (notes ? `*Special Notes:* ${notes}%0A` : "") +
       `*Phone:* ${phone || "Not specified"}%0A` +
       `--------------------------------%0A` +
-      `_Sent from Anaar Digital Concierge_`;
+      `_Sent from Metvanta Digital Concierge_`;
 
     // Open WhatsApp
     setTimeout(() => {
@@ -90,7 +90,7 @@ export default function ReservationModal({ isOpen, onClose }: ReservationModalPr
               <span>Table Concierge</span>
             </div>
             <h3 style={{ fontFamily: "'Fraunces', serif", fontSize: "30px", color: "#fff", marginBottom: "8px" }}>
-              Reserve your table at Anaar.
+              Reserve your table at Metvanta.
             </h3>
             <p style={{ fontSize: "14px", color: "rgba(250, 247, 242, 0.7)" }}>
               We hold limited tables for reservations while keeping the brew bar open for walk-ins.

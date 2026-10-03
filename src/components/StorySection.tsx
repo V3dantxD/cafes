@@ -13,7 +13,7 @@ export default function StorySection() {
             <div className="story-img-main">
               <Image
                 src="https://images.unsplash.com/photo-1521017432531-fbd92d768814?q=80&w=1200&auto=format&fit=crop"
-                alt="Head Barista & Roaster inspecting green bean lots at Anaar"
+                alt="Head Barista & Roaster inspecting green bean lots at Metvanta"
                 fill
                 style={{ objectFit: "cover" }}
               />
@@ -22,7 +22,7 @@ export default function StorySection() {
             <div className="story-floating-quote">
               <div className="quote-symbol">“</div>
               <p className="quote-text">
-                An anaar holds hundreds of jewel seeds inside one quiet shell. That is how we see our café.
+                Metvanta brings together warmth, craftsmanship, and community under one roof. That is how we see our café.
               </p>
             </div>
           </div>
@@ -46,8 +46,8 @@ export default function StorySection() {
             </p>
 
             <p className="story-copy-v2">
-              The name comes from the pomegranate—<em>anaar</em>. In botanical traditions across Gujarat and Persia,
-              the fruit symbolises abundance, meticulous detail, and community. Every cup, every sourdough starter,
+              The name Metvanta embodies the art of mindful gathering—where quiet architectural elegance
+              meets the vibrant soul of Indian hospitality. Every cup, every sourdough starter,
               and every brass vessel has been chosen with conscious intention.
             </p>
 
@@ -65,7 +65,7 @@ export default function StorySection() {
               <div style={{ width: "48px", height: "48px", borderRadius: "50%", overflow: "hidden", border: "2px solid var(--border-gold)" }}>
                 <Image
                   src="https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=200&auto=format&fit=crop"
-                  alt="Founder of Anaar"
+                  alt="Founder of Metvanta"
                   width={48}
                   height={48}
                   style={{ objectFit: "cover", width: "100%", height: "100%" }}
@@ -73,7 +73,7 @@ export default function StorySection() {
               </div>
               <div>
                 <div style={{ fontWeight: 600, color: "#fff", fontSize: "15px" }}>Aarav Mehta</div>
-                <div style={{ fontSize: "12.5px", color: "var(--brass-light)" }}>Founder & Head Roaster, Anaar</div>
+                <div style={{ fontSize: "12.5px", color: "var(--brass-light)" }}>Founder & Head Roaster, Metvanta</div>
               </div>
             </div>
           </div>

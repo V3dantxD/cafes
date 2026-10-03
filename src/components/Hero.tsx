@@ -14,7 +14,7 @@ export default function Hero({ onOpenReservation }: HeroProps) {
       <div className="hero-backdrop">
         <Image
           src="https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?q=80&w=2200&auto=format&fit=crop"
-          alt="Anaar Specialty Coffee House interior with warm lighting"
+          alt="Metvanta Specialty Coffee House interior with warm lighting"
           fill
           priority
           style={{ objectFit: "cover" }}

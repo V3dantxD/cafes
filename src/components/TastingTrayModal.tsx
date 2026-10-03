@@ -37,7 +37,7 @@ export default function TastingTrayModal({
       itemsText += `${idx + 1}. ${ti.item.name} (${ti.quantity}x) — ₹${ti.item.price * ti.quantity}%0A`;
     });
 
-    const message = `*Order / Tasting Request at Anaar Café*%0A` +
+    const message = `*Order / Tasting Request at Metvanta Café*%0A` +
       `--------------------------------%0A` +
       itemsText +
       `--------------------------------%0A` +
